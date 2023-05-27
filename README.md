@@ -1,4 +1,12 @@
-#ScreenShots
+# ScreenShots
+
+![Screenshot 2023-05-27 185620](https://github.com/Ahmedz182/Todo-app-in-react-js/assets/35397403/0592c8ba-c41a-42b5-8a66-b0fced9872e3)
+
+![Screenshot 2023-05-27 185729](https://github.com/Ahmedz182/Todo-app-in-react-js/assets/35397403/319d6161-7c06-4621-9a54-1063b7d54aca)
+
+![Screenshot 2023-05-27 185810](https://github.com/Ahmedz182/Todo-app-in-react-js/assets/35397403/8b1a71f2-253c-467c-bd58-69b32ce8d20b)
+
+![Screenshot 2023-05-27 185831](https://github.com/Ahmedz182/Todo-app-in-react-js/assets/35397403/9f18fee2-6413-4538-9961-1efe4cfc23cf)
 
 
 
