@@ -1,0 +1,72 @@
+ul{
+    justify-content: space-evenly;
+}
+nav{
+    position: fixed;
+    top: 0;
+}
+.img-mern{
+background: url(https://blog.nitsantech.com/fileadmin/ns_theme_ns2019/blog/_live/What_is_the_MERN_stack_and_how_do_I_use_it_/What_is_the_MERN_stack_and_how_do_I_use_it.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+.inp{
+    width: 50%;
+    padding: 10px;
+    margin-left: 15%;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+.sub{
+    width: 15%;
+    padding: 10px;
+    margin-left: 10px;
+margin-top: 10px;
+margin-bottom: 10px;
+font-weight: bolder;
+
+}
+
+.task{
+    display: flexbox;
+    flex-direction: row;
+}
+.main{
+    color: rgb(67, 67, 67);
+    font-weight: bolder;
+}
+.data{
+    padding: 20px;
+    
+    margin-left: 8.3%;
+    margin-right: 5%;
+}
+
+body{
+    background-color: rgb(28, 28, 28);
+}
+.card{
+    background-color: rgb(17, 17, 17);
+    color: whitesmoke;
+}
+.pending{
+    background-color: rgb(246, 77, 77);
+}
+.done{
+    background-color: rgb(71, 198, 67);
+}
+.hg{
+    height: 10px !important; 
+}
+
+td{
+    padding-left: 5px;
+}
+a{
+    font-weight: bolder;
+}
+
+.todo{
+    color: tomato;
+}
