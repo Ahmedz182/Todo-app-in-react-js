@@ -69,6 +69,7 @@ export default function Section1() {
             value='Add Task +'
             className='btn btn-outline-danger sub'
             onClick={handleAddTask}
+            maxlength="10"
           />
         </div>
       </div>
@@ -85,7 +86,7 @@ export default function Section1() {
           </thead>
           <tbody>
             {tasks.map((task, index) => (
-              <tr key={index} className={task.status === 'pending' ? 'pending' : 'done'}>
+              <tr key={index} className={ task.status === 'pending' ? 'pending' : 'done'}>
                 {task.isEditing ? (
                   <>
                     <td>

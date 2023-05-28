@@ -75,3 +75,11 @@ a{
 }
 
     
+tbody{
+    border-radius: 300px;
+    row-gap: 10px;
+}
+td:first-child:before{
+ 
+    content: "※ ";
+}
