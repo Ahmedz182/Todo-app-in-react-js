@@ -53,7 +53,7 @@ export default function Section1() {
       <div className='m-3'>
         <h4 className='text-center fs-3 main text-light'>Welcome to <b className='todo'>TODO</b> List App</h4>
         <br />
-        <div className='task card container p-2 bg-gray-400'>
+        <div className='task card col-10 p-2 bg-gray-400'>
           <input
             id='task'
             type='text'
@@ -74,7 +74,7 @@ export default function Section1() {
         </div>
       </div>
 
-      <div className='data card container'>
+      <div className='data card col-10'>
         <table id='tab'>
           <thead>
             <tr>
